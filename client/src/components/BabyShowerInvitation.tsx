@@ -26,12 +26,12 @@ const BabyShowerInvitation = ({ eventDetails }: Props) => {
           <h2 className="text-2xl md:text-5xl font-['Dancing_Script'] font-bold mb-12 text-gray-700">{eventDetails.motherName}</h2>
           
           <div className="max-w-md mx-auto mb-12 text-gray-600">
-            <p className="font-serif text-lg md:text-xl mb-2">Welcome to our Baby Registry! We're so excited to</p>
-            <p className="font-serif text-lg md:text-xl mb-2">be welcoming our little one into the world, and we</p>
-            <p className="font-serif text-lg md:text-xl mb-2">truly appreciate your love and support during this</p>
-            <p className="font-serif text-lg md:text-xl mb-2">special time. Thank you for helping us get ready</p>
-            <p className="font-serif text-lg md:text-xl mb-2">for our newest addition - we can't wait to share</p>
-            <p className="font-serif text-lg md:text-xl">all the joy and sweet moments with you!</p>
+            <p className="welcome-text text-lg md:text-xl mb-2">Welcome to our Baby Registry! We're so excited to</p>
+            <p className="welcome-text text-lg md:text-xl mb-2">be welcoming our little one into the world, and we</p>
+            <p className="welcome-text text-lg md:text-xl mb-2">truly appreciate your love and support during this</p>
+            <p className="welcome-text text-lg md:text-xl mb-2">special time. Thank you for helping us get ready</p>
+            <p className="welcome-text text-lg md:text-xl mb-2">for our newest addition - we can't wait to share</p>
+            <p className="welcome-text text-lg md:text-xl">all the joy and sweet moments with you!</p>
           </div>
           
           {/* Button */}
