@@ -1,6 +1,6 @@
 # Baby Registry Clone
 
-This is a clone of Barbara Elizabeth Watford's baby registry website. The design includes:
+This is Barbara Elizabeth Watford's baby registry website. The design includes:
 
 - Custom fonts (Dancing Script, Mrs Eaves)
 - Responsive design that works on all device sizes
