@@ -1,4 +1,4 @@
-# Baby Registry Clone
+# Baby Registry 
 
 This is Barbara Elizabeth Watford's baby registry website. The design includes:
 
