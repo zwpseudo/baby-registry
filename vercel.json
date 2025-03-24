@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/babywatford",
+      "destination": "/babywatford/index.html"
+    },
+    {
+      "source": "/babywatford/:path*",
+      "destination": "/babywatford/index.html"
+    }
+  ]
+}
