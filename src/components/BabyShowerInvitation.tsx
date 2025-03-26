@@ -14,7 +14,7 @@ const BabyShowerInvitation: React.FC = () => {
         </div>
 
         {/* Name inside the border, above ribbon */}
-        <div className="relative z-10 mt-10 sm:mt-12 md:mt-14">
+        <div className="relative z-10 mt-10 sm:mt-12 md:mt-44">
           <h2 className="text-2xl sm:text-4xl md:text-5xl font-dancing font-bold text-gray-700">
             Barbara Elizabeth Watford
           </h2>
@@ -22,7 +22,7 @@ const BabyShowerInvitation: React.FC = () => {
 
         {/* Content centered within the floral border */}
         <div className="relative z-10 max-w-xs sm:max-w-sm md:max-w-md mx-auto mt-24 sm:mt-28 md:mt-32">
-          <div className="text-center space-y-0.5 sm:space-y-1 text-gray-700 mb-8">
+          <div className="text-center space-y-1.5 sm:space-y-1 text-gray-400 mb-8">
             <p className="font-mrs text-[10px] xs:text-xs sm:text-sm md:text-base leading-tight">
               welcome to our baby registry! we're so excited to
             </p>
@@ -35,7 +35,7 @@ const BabyShowerInvitation: React.FC = () => {
             <p className="font-mrs text-[10px] xs:text-xs sm:text-sm md:text-base leading-tight">
               special time. thank you for helping us get ready
             </p>
-            <p className="font-mrs text-[10px] xs:text-xs sm:text-sm md:text-base leading-tight">
+            <p className="font-mrs text-[10px] xs:text-xs sm:txt-sm md:text-base leading-tight">
               for our newest addition – we can't wait to share
             </p>
             <p className="font-mrs text-[10px] xs:text-xs sm:text-sm md:text-base leading-tight">
