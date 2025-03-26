@@ -22,7 +22,7 @@ const BabyShowerInvitation: React.FC = () => {
 
         {/* Content centered within the floral border */}
         <div className="relative z-10 max-w-[280px] xs:max-w-xs sm:max-w-sm md:max-w-md mx-auto mt-16 sm:mt-28 md:mt-32">
-          <div className="text-center space-y-1 xs:space-y-1.5 sm:space-y-2 text-gray-400 mb-6 sm:mb-8">
+          <div className="text-center space-y-1 xs:space-y-0.5 sm:space-y-2 text-gray-400 mb-6 sm:mb-8">
             <p className="font-mrs text-[11px] xs:text-xs sm:text-sm md:text-base leading-relaxed">
               welcome to our baby registry! we're so excited to
             </p>
